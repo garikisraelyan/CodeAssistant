@@ -1,6 +1,6 @@
-# CodeAssistant.Web
+# CodeAssistant
 
-CodeAssistant.Web is a C# web application that utilizes OpenAI's GPT to generate responses to user prompts. This project is built with ASP.NET Core and uses Entity Framework Core for object-relational mapping.
+CodeAssistant is a C# web application that utilizes OpenAI's GPT to refactor the user's pieces of code. This project is built with ASP.NET Core and uses Entity Framework Core for object-relational mapping.
 
 ## Prerequisites
 
@@ -13,8 +13,8 @@ Before running the application, ensure you have the following installed:
 First, clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/your-username/CodeAssistant.Web.git
-cd CodeAssistant.Web
+git clone https://github.com/garikisraelyan/CodeAssistant.git
+cd CodeAssistant
 ```
 
 ## Configuration
