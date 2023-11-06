@@ -1,6 +1,6 @@
 # CodeAssistant
 
-CodeAssistant is a C# web application that utilizes OpenAI's GPT to refactor the user's pieces of code. This project is built with ASP.NET Core and uses Entity Framework Core for object-relational mapping.
+CodeAssistant is a C# web application that utilizes OpenAI's GPT to refactor users' pieces of code. This project is built with ASP.NET Core and uses Entity Framework Core for object-relational mapping.
 
 ## Prerequisites
 
