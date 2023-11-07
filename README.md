@@ -40,6 +40,14 @@ $Env:OPENAI_API_KEY='your_api_key_here'
 
 Replace `'your_api_key_here'` with your actual OpenAI API key.
 
+## Installation of Required Libraries
+
+Before running the project, ensure that you have the necessary libraries installed. You can install all the required libraries by running the following command in the root directory of the project:
+
+```bash
+dotnet restore
+```
+
 ### Database Setup
 
 This application uses SQLite. Make sure the connection string in `appsettings.json` is correct.
