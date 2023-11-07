@@ -7,6 +7,10 @@ CodeAssistant is a C# web application that utilizes OpenAI's GPT to refactor use
 Before running the application, ensure you have the following installed:
 - [.NET 7.0 SDK](https://dotnet.microsoft.com/download/dotnet/7.0)
 - An appropriate IDE such as [Visual Studio](https://visualstudio.microsoft.com/), [Visual Studio Code](https://code.visualstudio.com/) with the C# extension, or [JetBrains Rider](https://www.jetbrains.com/rider/).
+- Install the Entity Framework Core tools globally by running the following command:
+```bash
+dotnet tool install --global dotnet-ef
+```
 
 ## Installation
 
